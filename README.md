@@ -1,0 +1,2 @@
+# tikler.json
+["adminebak.aq","adminebak.aq",adminebak.aq","adminebak.aq"]
