@@ -1,2 +1,2 @@
 # tikler.json
-["adminebak.aq","adminebak.aq",adminebak.aq","adminebak.aq"]
+["tolga_atabeyy","tolga_atabeyy","tolga_atabeyy","tolga_atabeyy"]
